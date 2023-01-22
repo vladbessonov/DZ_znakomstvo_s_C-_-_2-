@@ -1,0 +1,15 @@
+E:\GB\3_Znakomstvo_C#\Seminar\seminar2\DZ2\zadacha_2\bin\Debug\net6.0\zadacha_2.exe
+E:\GB\3_Znakomstvo_C#\Seminar\seminar2\DZ2\zadacha_2\bin\Debug\net6.0\zadacha_2.deps.json
+E:\GB\3_Znakomstvo_C#\Seminar\seminar2\DZ2\zadacha_2\bin\Debug\net6.0\zadacha_2.runtimeconfig.json
+E:\GB\3_Znakomstvo_C#\Seminar\seminar2\DZ2\zadacha_2\bin\Debug\net6.0\zadacha_2.dll
+E:\GB\3_Znakomstvo_C#\Seminar\seminar2\DZ2\zadacha_2\bin\Debug\net6.0\zadacha_2.pdb
+E:\GB\3_Znakomstvo_C#\Seminar\seminar2\DZ2\zadacha_2\obj\Debug\net6.0\zadacha_2.csproj.AssemblyReference.cache
+E:\GB\3_Znakomstvo_C#\Seminar\seminar2\DZ2\zadacha_2\obj\Debug\net6.0\zadacha_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\3_Znakomstvo_C#\Seminar\seminar2\DZ2\zadacha_2\obj\Debug\net6.0\zadacha_2.AssemblyInfoInputs.cache
+E:\GB\3_Znakomstvo_C#\Seminar\seminar2\DZ2\zadacha_2\obj\Debug\net6.0\zadacha_2.AssemblyInfo.cs
+E:\GB\3_Znakomstvo_C#\Seminar\seminar2\DZ2\zadacha_2\obj\Debug\net6.0\zadacha_2.csproj.CoreCompileInputs.cache
+E:\GB\3_Znakomstvo_C#\Seminar\seminar2\DZ2\zadacha_2\obj\Debug\net6.0\zadacha_2.dll
+E:\GB\3_Znakomstvo_C#\Seminar\seminar2\DZ2\zadacha_2\obj\Debug\net6.0\refint\zadacha_2.dll
+E:\GB\3_Znakomstvo_C#\Seminar\seminar2\DZ2\zadacha_2\obj\Debug\net6.0\zadacha_2.pdb
+E:\GB\3_Znakomstvo_C#\Seminar\seminar2\DZ2\zadacha_2\obj\Debug\net6.0\zadacha_2.genruntimeconfig.cache
+E:\GB\3_Znakomstvo_C#\Seminar\seminar2\DZ2\zadacha_2\obj\Debug\net6.0\ref\zadacha_2.dll
